@@ -1,0 +1,1 @@
+/fs1/home/tjuvis_2022/lxx/qikan/data/GRID_new_data_test/28/0/align_face /fs1/home/tjuvis_2022/lxx/qikan/data/GRID_new_data_test/28/0/mfcc32
