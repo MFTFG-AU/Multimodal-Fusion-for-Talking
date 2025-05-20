@@ -11,9 +11,9 @@ Official PyTorch implementation for the paper:
 </p>
 
 ## News
-Thank you to all the reviewers for their feedback. Moving forward, we are committed to ongoing research to enhance the efficiency and performance of this project.
+Thank you to all the reviewers for their feedback.
 
--
+- We update to improve the efficiency and performance of this project.
 
 
 ## Environment
